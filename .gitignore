@@ -1,0 +1,8 @@
+#Metainfo files
+/.*
+.*
+*~
+!.gitignore
+tmp
+torrents
+rename
